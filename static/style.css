@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.card {
+    margin-top: 20px;
+    border: 1px solid #dee2e6;
+    border-radius: 0.25rem;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+.card-title {
+    color: #FFFFFF;
+}
+
+.card-body {
+    background-color: #28a745;
+    color: #FFFFF0;
+}
+
+#third_card .card-body {
+    background-color: #FFFFFF;
+    color: #000000;
+}
+
+#third_card {
+    width: 200%; /* You can adjust the width as needed */
+    max-width: 800px; /* Optionally set a maximum width */
+    margin: 0 auto; /* Center the card horizontally */
+}
+
+.btn {
+    display: block;
+    margin: 0 auto;
+}
+
+.alert {
+    display: none;
+}
+
+.alert.d-none {
+    display: none;
+}
