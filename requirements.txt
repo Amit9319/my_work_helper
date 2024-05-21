@@ -64,7 +64,6 @@ fastjsonschema==2.18.1
 filelock==3.10.6
 fiona==1.9.5
 fitz==0.0.1.dev2
-gunicorn
 Flask==2.1.2
 Flask-Caching==2.0.0
 Flask-Compress==1.12
